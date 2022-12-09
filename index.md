@@ -4,8 +4,8 @@
 
 ### My Latest Project
 
-#### [Internal Blog Post Project](https://www.linkedin.com/pulse/whos-hungry-doordash-deep-dive-analysis-jessi-jalbert/?trackingId=P0h2CZl1SqCYVzBr4M3U4g%3D%3D)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### [Who's Hungry? A DoorDash Deep Dive Analysis](https://www.linkedin.com/pulse/whos-hungry-doordash-deep-dive-analysis-jessi-jalbert/?trackingId=P0h2CZl1SqCYVzBr4M3U4g%3D%3D)
+<img src="images/Untitled design (1).png?raw=true"/>
 Check out my latest project using Excel!
 
 ---
