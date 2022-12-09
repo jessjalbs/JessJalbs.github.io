@@ -2,11 +2,11 @@
 
 ---
 
-### General Analytics Projects
+### My Latest Project
 
-#### [Internal Blog Post Project](/sample_project)
+#### [Internal Blog Post Project](https://www.linkedin.com/pulse/whos-hungry-doordash-deep-dive-analysis-jessi-jalbert/?trackingId=P0h2CZl1SqCYVzBr4M3U4g%3D%3D)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+Check out my latest project using Excel!
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
