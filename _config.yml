@@ -1,11 +1,11 @@
-title: Your Name # your name (or website title) here
+title: Jessica Jalbert # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Driven Accountant who loves taxes
+  Former Educator turned Data Analyst
   <br><br>
-  Sports. Dog dad. Teching analytics. 
+  book worm 📚 reality TV junkie 📺 major crafter 🧶
   <br><br>
-  <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jessjalbs/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
