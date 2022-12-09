@@ -9,9 +9,9 @@
 Check out my latest project using Excel!
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [BellaBeat Capstone Project using R](https://www.kaggle.com/code/jessijalbert/bellabeat-data-analysis-capstone-project?kernelSessionId=106378749)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+My capstone project for the Google Data Analytics Professional Certificate. I chose to use R for this analysis and I am pretty happy with how it turned out!  
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
