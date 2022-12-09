@@ -10,7 +10,7 @@ Check out my latest project using Excel!
 
 ---
 #### [BellaBeat Capstone Project using R](https://www.kaggle.com/code/jessijalbert/bellabeat-data-analysis-capstone-project?kernelSessionId=106378749)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+<img src="images/BellaBeat Marketing Analysis.png?raw=true"/>
 My capstone project for the Google Data Analytics Professional Certificate. I chose to use R for this analysis and I am pretty happy with how it turned out!  
 
 ---
