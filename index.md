@@ -14,9 +14,9 @@ Check out my latest project using Excel!
 My capstone project for the Google Data Analytics Professional Certificate. I chose to use R for this analysis and I am pretty happy with how it turned out!  
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+#### [There has been a murder in SQL city!](https://www.linkedin.com/feed/update/urn:li:activity:6985374754375430144/)
+[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/feed/update/urn:li:activity:6985374754375430144/)
+A fun mini project where I got to flew my SQL muscles and solve a mystery! A true-crime lovers dream! Check it out 🔎
 
 ---
 
