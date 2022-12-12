@@ -22,7 +22,7 @@ My capstone project for the Google Data Analytics Professional Certificate. I ch
 ---
 #### [There has been a murder in SQL city!](https://www.linkedin.com/feed/update/urn:li:activity:6985374754375430144/)
 [<img src="images/A Murder IN SQL CITY.png?raw=true"/>](https://www.linkedin.com/feed/update/urn:li:activity:6985374754375430144/)
-A fun mini project where I got to flew my SQL muscles and solve a mystery! A true-crime lovers dream! Check it out 🔎
+A fun mini project where I got to flex my SQL muscles and solve a mystery! A true-crime lovers dream! Check it out 🔎
 
 ---
 
