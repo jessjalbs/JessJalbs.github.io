@@ -64,6 +64,6 @@ I grouped the districts that met the standards set by the superintendent and set
 
 I created 2 new sheets, one to count the number of schools, and one to count total student enrollemnt. That should cover our BANs. If you would like to look deeper into the data, click the picture to visit my dashboard!
 
-<img src="images/Screenshot (69).png?raw=true"/>(https://public.tableau.com/views/DAA1-MASSSchools/MassachusettsEducationOverview?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[<img src="images/Screenshot (69).png?raw=true"/>](https://public.tableau.com/views/DAA1-MASSSchools/MassachusettsEducationOverview?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### I hope you enjoyed my investigation into Massachusetts' education system! 
