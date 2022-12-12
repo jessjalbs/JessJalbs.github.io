@@ -18,7 +18,7 @@ by the school board.
 ### Our first order of business is to determine the 10 schools that are performing the worst based on graduating percentage.
 I created a horizontal bar chart with the school names for rows and the graduating % of each school for columns. Since there are schools within our data that are not 
 high schools, we had some null values within our bar chart. I removed them by adding a filter for the graduating % by attirbute and keeping only non-null values
-for our chart. I also changed the field that the bar chart was ordered to descending order of graduating % since we wanted to see the schools based on the lowest 
+for our chart. I also changed the field that the bar chart was ordered to ascending order of graduating % since we wanted to see the schools based on the lowest 
 graduating %, not alphabetically. 
 
 <img src="images/Screenshot (59).png?raw=true"/>
@@ -42,7 +42,24 @@ I decided to add another attribute to our plot by adding some color. As a former
 
 <img src="images/Screenshot (62).png?raw=true"/>
 
-It seems that econimically disadvantaged students are still most successful within the range we noticed earlier. While the percentage of econmically disavantaged students attending college needs some improvement, I believe that there are other factors that can be changed to increase that percentage other than class size. 
+It seems that econimically disadvantaged students are still most successful within the range we noticed earlier. While the percentage of economically disavantaged students attending college needs some improvement, I believe that there are other factors that can be changed to increase that percentage other than class size. 
 
-###
+### The superintendent believes that 4th grade mathematics is a key indicator of a student's future success and wants to improve the state's 4th grade math passing rate. 
+
+He wants to know which districts have more than an average of more than 50% passing 4th grade math so that he can have teachers from those districts lead professional development workshops for the districts that are struggling. 
+
+I started by adding district name to rows and %MCAS 4th Grade Math P (meaning passing) into columns. I want the average passing rate so I made that the measure. There are districts in Massachusetts that don't have elementary schools which has resulted in some nulls in our visualization so I filtered those out. I decided to add a reference line since we know our target is districts with a passing average higher than 50%. I thought that this data viz may be more insipiring as an area chart, here are the results thus far. 
+
+<img src="images/Screenshot (64).png?raw=true"/>
+
+I wanted it sorted in descending order by passing average so that we can see the highest performing schools at the top. I labaled the data points as well so it was easier to see the exact passing average percentage for each district. 
+
+<img src="images/Screenshot (66).png?raw=true"/>
+
+I grouped the districts that met the standards set by the superintendent and set the two seperate groups to "passing" and "needs work". I think it looks pretty good! It should be easy for state to find their professional development leaders. 
+
+<img src="images/Screenshot (67).png?raw=true"/>
+
+
+
 
