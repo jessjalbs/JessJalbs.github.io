@@ -1,7 +1,7 @@
 # Massachusetts Wants College Enrollment En Masse
 
 <img src="images/MASSeduPic1.jpg?raw=true"/>
-_photo belongs to [livingconcord.com]<https://www.livingconcord.com/listing/middlesex-school/>_
+_photo belongs to [livingconcord.com]<https://www.livingconcord.com/listing/middlesex-school/> _
 
 ## "We don't need no education," said no one on the the state of Massachusetts school board.
 
@@ -32,6 +32,17 @@ to be improbable. I will look into why that may be later but for now I am going 
 the state. 
 
 ### Next we are going to take a look at college enrollment in relation to high school class size. 
+I am going to use a scatterplot to look at the patterns for this particular question. I added average class size to columns and % attending college in rows. I changed the marks to circle to make it easier to see each individual point on our plot. 
 
+<img src="images/Screenshot (61).png?raw=true"/>
 
+Based on this plot, we can see that there is a pretty solid % attending college when class sizes are between 12 and 20 students. I don't think the state needs to build more schools in order to lower class size, since the smallest class sizes actually have low college attendance. 
+
+I decided to add another attribute to our plot by adding some color. As a former teacher myself, I understand that students who are economically disadvantaged have a lower probability of attending college. Maybe the school board would have some interest in this information if they choose to build more schools. I added AVG % econimically disadvantaged to our plot as a color as a measure of our graph. 
+
+<img src="images/Screenshot (62).png?raw=true"/>
+
+It seems that econimically disadvantaged students are still most successful within the range we noticed earlier. While the percentage of econmically disavantaged students attending college needs some improvement, I believe that there are other factors that can be changed to increase that percentage other than class size. 
+
+###
 
