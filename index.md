@@ -20,8 +20,8 @@ Check out my latest project using Excel!
 My capstone project for the Google Data Analytics Professional Certificate. I chose to use R for this analysis and I am pretty happy with how it turned out!  
 
 ---
-#### [There has been a murder in SQL city!](https://www.linkedin.com/feed/update/urn:li:activity:6985374754375430144/)
-[<img src="images/A Murder IN SQL CITY.png?raw=true"/>](https://www.linkedin.com/feed/update/urn:li:activity:6985374754375430144/)
+#### [There has been a murder in SQL city!](https://www.linkedin.com/pulse/help-me-solve-murder-mystery-jessi-jalbert/?trackingId=ihp11m3PRBSUr4ML%2Bu%2F2kw%3D%3D)
+[<img src="images/A Murder IN SQL CITY.png?raw=true"/>](https://www.linkedin.com/pulse/help-me-solve-murder-mystery-jessi-jalbert/?trackingId=ihp11m3PRBSUr4ML%2Bu%2F2kw%3D%3D)
 A fun mini project where I got to flex my SQL muscles and solve a mystery! A true-crime lovers dream! Check it out 🔎
 
 ---
