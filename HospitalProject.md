@@ -1,4 +1,6 @@
-## Home for the Holidays? How Hospitals Can Cut Cost and Get Patients Home
+## A Hospital Holiday Investigation: How Can Hospitals Save Money and Keep Beds Open! 
+
+### Okay, okay, maybe not an _actual_ holiday investigation, but it is the holiday season, no? Merry Everything, Y'all!
 
 **Project description:** I have _hypothetically_ been hired by a hospital's data analytics team to evaluate how the hospital can save money by keeping their beds open.
 I have been given a dataset that includes 2 tables, one with patients' demographics, and one with their health information. This dataset comes from [Kaggle](https://www.kaggle.com/code/iabhishekofficial/prediction-on-hospital-readmission/data?select=diabetic_data.csv).
@@ -59,6 +61,32 @@ I have the time and am a great team player so I quickly write a query so I can s
 
 <img src="images/UNION.png?raw=true"/>
 
-###
+### Let's highlight some success stories for the hospital! 
+
+The hospital administrator wants to put some emphasis on cases where patients came in with an emergency, (admission_type_id of 1), but stayed less than the average
+amount of time at the hospital. 
+
+<img src="images/SUBQUERY CTE.png?raw=true"/>
+
+This is a great opportunity to study any patterns in the consistency in these cases as well as celebrating the staff that helped ensure these success stories. 
+
+### The big "boss" wants a summary of the top 50 patients who take the most medication.
+
+THe summary of the information is pretty extensive and both tables will be used. In order to complete to ful summary I need some more information. My first query was to find out what the different text strings were under the readmitted column. 
+
+<img src="images/CONCAT 1.png?raw=true"/>
+
+Now that I know the different text strings, I can write out my full query for my summaries. I will need to use the CONCAT funtion in order to include all of the 
+requested information. This one was a good time 😉
+
+<img src="images/CONCAT 2.png?raw=true"/>
+
+Hopefully the hospital will be able to utilize this information to better understand how they can keep beds open and save some money.
+
+### Thank you for joining me for my hospital project using MySql! As I am writing this it is December 15th, 2022, and I can only hope that anyone who is sick in the hospital can get home and spend time with their families this holiday season. Sending positive, healing thoughts to anyone out there who is going through a hard time ❤ 
+
+## All in a days work! I wonder what I will be able to assist with tomorrow 👩🏼‍💻 
+
+
 
 
