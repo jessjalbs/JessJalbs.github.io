@@ -1,5 +1,7 @@
 ## A Hospital Holiday Investigation: How Can Hospitals Save Money and Keep Beds Open! 
 
+<img src="images/hospitalinvestigation.png?raw=true"/>
+
 ### Okay, okay, maybe not an _actual_ holiday investigation, but it is the holiday season, no? Merry Everything, Y'all!
 
 **Project description:** I have _hypothetically_ been hired by a hospital's data analytics team to evaluate how the hospital can save money by keeping their beds open.
