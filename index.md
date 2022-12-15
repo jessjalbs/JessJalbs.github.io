@@ -6,7 +6,6 @@
 
 #### [A Hospital Holiday Investigation](/HospitalProject.md)
 [<img src="images/hospitalinvestigation.png?raw=true"/>](/HospitalProject.md)
-
 Okay, okay, maybe not an actual holiday investigation, but it is the holiday season, no? Merry Everything, Y'all! Join me for my analysis on this hospital data using 
 MySQL!
 
