@@ -1,7 +1,7 @@
 # Massachusetts Wants College Enrollment En Masse
 
 <img src="images/MASSeduPic1.jpg?raw=true"/>
-_photo belongs to [livingconcord.com]<https://www.livingconcord.com/listing/middlesex-school/> _
+_photo belongs to [livingconcord.com](https://www.livingconcord.com/listing/middlesex-school/) _
 
 ## "We don't need no education," said no one on the the state of Massachusetts school board.
 
