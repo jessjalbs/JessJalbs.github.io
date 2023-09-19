@@ -67,3 +67,5 @@ I created 2 new sheets, one to count the number of schools, and one to count tot
 [<img src="images/Screenshot (69).png?raw=true"/>](https://public.tableau.com/views/DAA1-MASSSchools/MassachusettsEducationOverview?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### I hope you enjoyed my investigation into Massachusetts' education system! 
+
+
